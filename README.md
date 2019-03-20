@@ -14,7 +14,7 @@ Com isso em mente, imagine que vc é um "single dev army" e tem a responsabilida
 
 1. Clone esse repositório.
 2. Desenvolva o dashboard usando React
-3. Todas as informações de um empréstimo podem ser encontradas nesse endpoint ()
+3. Todas as informações de um empréstimo podem ser encontradas nesse endpoint (http://www.mocky.io/v2/5c923b0932000029056bce39)
 4. Sinta-se a vontade para fazer chamadas http como preferir
 5. Sinta-se a vontade para usar algum framework de UI/UX ou fazer o próprio design
 6. Ao terminar, faça um commit do seu challenge e suba esse repositório para o GitHub
@@ -35,3 +35,9 @@ Com isso em mente, imagine que vc é um "single dev army" e tem a responsabilida
 
 1. Caso tenha alguma dúvida durante o challenge, fique a vontade pra entrar em contato conosco.
 2. Esse challenge não deve tomar mais do que 3 horas do seu tempo. É apenas um protótipo.
+3. Explicação dos dados no ENDPOINT do empréstimo:
+   ~> totalAmountInTaxes: Valor total de juros no empréstimo
+   ~> monthlyInterest: Taxa de juros mensal
+   ~> amountPayd: Valor total pago
+   ~> amountTaken: Valor total emprestado
+   ~> installments: todas as parcelas do empréstimo
