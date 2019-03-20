@@ -35,9 +35,11 @@ Com isso em mente, imagine que vc é um "single dev army" e tem a responsabilida
 
 1. Caso tenha alguma dúvida durante o challenge, fique a vontade pra entrar em contato conosco.
 2. Esse challenge não deve tomar mais do que 3 horas do seu tempo. É apenas um protótipo.
-3. Explicação dos dados no ENDPOINT do empréstimo:
-   ~> totalAmountInTaxes: Valor total de juros no empréstimo
-   ~> monthlyInterest: Taxa de juros mensal
-   ~> amountPayd: Valor total pago
-   ~> amountTaken: Valor total emprestado
-   ~> installments: todas as parcelas do empréstimo
+
+#### Explicação dos dados no ENDPOINT do empréstimo:
+
+1.  totalAmountInTaxes: Valor total de juros no empréstimo
+2.  monthlyInterest: Taxa de juros mensal
+3.  amountPayd: Valor total pago
+4.  amountTaken: Valor total emprestado
+5.  installments: todas as parcelas do empréstimo
